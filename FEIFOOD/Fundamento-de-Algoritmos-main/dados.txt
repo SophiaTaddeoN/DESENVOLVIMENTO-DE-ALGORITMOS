@@ -1,0 +1,296 @@
+{
+    "usuarios": [
+        {
+            "nome": "Gabriela",
+            "user": "G",
+            "senha": "123"
+        }
+    ],
+    "musicas": [
+        {
+            "nome": "CINEMA",
+            "artista": "STRAY KIDS",
+            "duracao": "3:41"
+        },
+        {
+            "nome": "WHAT IS LOVE?",
+            "artista": "TWICE",
+            "duracao": "3:28"
+        },
+        {
+            "nome": "DYNAMITE",
+            "artista": "BTS",
+            "duracao": "3:19"
+        },
+        {
+            "nome": "BLINDING LIGHTS",
+            "artista": "THE WEEKND",
+            "duracao": "3:20"
+        },
+        {
+            "nome": "BAD BOY",
+            "artista": "RED VELVET",
+            "duracao": "3:30"
+        },
+        {
+            "nome": "LOCO",
+            "artista": "ITZY",
+            "duracao": "3:25"
+        },
+        {
+            "nome": "FANCY",
+            "artista": "TWICE",
+            "duracao": "3:45"
+        },
+        {
+            "nome": "BUTTER",
+            "artista": "BTS",
+            "duracao": "2:45"
+        },
+        {
+            "nome": "KILL THIS LOVE",
+            "artista": "BLACKPINK",
+            "duracao": "3:14"
+        },
+        {
+            "nome": "LEVITATING",
+            "artista": "DUA LIPA",
+            "duracao": "3:23"
+        },
+        {
+            "nome": "PEACHES",
+            "artista": "JUSTIN BIEBER",
+            "duracao": "3:18"
+        },
+        {
+            "nome": "BLINDING LIGHTS",
+            "artista": "THE WEEKND",
+            "duracao": "3:20"
+        },
+        {
+            "nome": "SAVE YOUR TEARS",
+            "artista": "THE WEEKND",
+            "duracao": "3:35"
+        },
+        {
+            "nome": "ON THE GROUND",
+            "artista": "ROS\u00c3\u2030",
+            "duracao": "3:10"
+        },
+        {
+            "nome": "GOOD 4 U",
+            "artista": "OLIVIA RODRIGO",
+            "duracao": "2:58"
+        },
+        {
+            "nome": "MONTERO",
+            "artista": "LIL NAS X",
+            "duracao": "2:18"
+        },
+        {
+            "nome": "STAY",
+            "artista": "THE KID LAROI & JUSTIN BIEBER",
+            "duracao": "2:21"
+        },
+        {
+            "nome": "HEAT WAVES",
+            "artista": "GLASS ANIMALS",
+            "duracao": "3:58"
+        },
+        {
+            "nome": "SHIVERS",
+            "artista": "ED SHEERAN",
+            "duracao": "3:27"
+        },
+        {
+            "nome": "PEACHES",
+            "artista": "JUSTIN BIEBER FT. DANIEL CAESAR & GIVEON",
+            "duracao": "3:18"
+        },
+        {
+            "nome": "DON'T START NOW",
+            "artista": "DUA LIPA",
+            "duracao": "3:03"
+        },
+        {
+            "nome": "WAP",
+            "artista": "CARDI B FT. MEGAN THEE STALLION",
+            "duracao": "3:07"
+        },
+        {
+            "nome": "SAVAGE LOVE",
+            "artista": "JAWSH 685 & JASON DERULO",
+            "duracao": "2:56"
+        },
+        {
+            "nome": "WATERMELON SUGAR",
+            "artista": "HARRY STYLES",
+            "duracao": "2:54"
+        },
+        {
+            "nome": "ADORE YOU",
+            "artista": "HARRY STYLES",
+            "duracao": "3:27"
+        },
+        {
+            "nome": "DON'T PLAY",
+            "artista": "ANNE-MARIE, KSI, DIGITAL FARM ANIMALS",
+            "duracao": "3:23"
+        },
+        {
+            "nome": "TOXIC",
+            "artista": "BRITNEY SPEARS",
+            "duracao": "3:19"
+        },
+        {
+            "nome": "SHAPE OF YOU",
+            "artista": "ED SHEERAN",
+            "duracao": "3:53"
+        },
+        {
+            "nome": "SHALLOW",
+            "artista": "LADY GAGA & BRADLEY COOPER",
+            "duracao": "3:36"
+        },
+        {
+            "nome": "BLINDING LIGHTS",
+            "artista": "THE WEEKND",
+            "duracao": "3:20"
+        },
+        {
+            "nome": "ASTRONAUT IN THE OCEAN",
+            "artista": "MASKED WOLF",
+            "duracao": "2:11"
+        },
+        {
+            "nome": "DUNE",
+            "artista": "LORDE",
+            "duracao": "4:32"
+        },
+        {
+            "nome": "STARBOY",
+            "artista": "THE WEEKND FT. DAFT PUNK",
+            "duracao": "3:50"
+        },
+        {
+            "nome": "HAPPIER",
+            "artista": "ED SHEERAN",
+            "duracao": "3:28"
+        },
+        {
+            "nome": "CALL ME MAYBE",
+            "artista": "CARLY RAE JEPSEN",
+            "duracao": "3:13"
+        },
+        {
+            "nome": "GOD'S PLAN",
+            "artista": "DRAKE",
+            "duracao": "3:19"
+        },
+        {
+            "nome": "SICKO MODE",
+            "artista": "TRAVIS SCOTT",
+            "duracao": "5:12"
+        },
+        {
+            "nome": "TAKE CARE",
+            "artista": "DRAKE FT. RIHANNA",
+            "duracao": "4:37"
+        },
+        {
+            "nome": "OLD TOWN ROAD",
+            "artista": "LIL NAS X FT. BILLY RAY CYRUS",
+            "duracao": "1:53"
+        },
+        {
+            "nome": "NO TEARS LEFT TO CRY",
+            "artista": "ARIANA GRANDE",
+            "duracao": "3:25"
+        },
+        {
+            "nome": "SENORITA",
+            "artista": "SHAWN MENDES & CAMILA CABELLO",
+            "duracao": "3:11"
+        },
+        {
+            "nome": "HIGHWAY TO HELL",
+            "artista": "AC/DC",
+            "duracao": "3:28"
+        },
+        {
+            "nome": "EYE OF THE TIGER",
+            "artista": "SURVIVOR",
+            "duracao": "4:04"
+        },
+        {
+            "nome": "I WILL SURVIVE",
+            "artista": "GLORIA GAYNOR",
+            "duracao": "3:17"
+        },
+        {
+            "nome": "SHINE",
+            "artista": "COLLECTIVE SOUL",
+            "duracao": "3:45"
+        },
+        {
+            "nome": "BILLIE JEAN",
+            "artista": "MICHAEL JACKSON",
+            "duracao": "4:54"
+        },
+        {
+            "nome": "UPTOWN FUNK",
+            "artista": "MARK RONSON FT. BRUNO MARS",
+            "duracao": "4:30"
+        },
+        {
+            "nome": "JUST DANCE",
+            "artista": "LADY GAGA",
+            "duracao": "4:02"
+        },
+        {
+            "nome": "ROLLING IN THE DEEP",
+            "artista": "ADELE",
+            "duracao": "3:48"
+        },
+        {
+            "nome": "HALO",
+            "artista": "Beyonc\u00c3\u00a9",
+            "duracao": "4:21"
+        }
+    ],
+    "playlists": [
+        {
+            "usuario": "G",
+            "playlist": "TESTE",
+            "musicas": [
+                {
+                    "musica": "OLD TOWN ROAD",
+                    "artista": "LIL NAS X FT. BILLY RAY CYRUS",
+                    "duracao": "1:53"
+                }
+            ]
+        }
+    ],
+    "historico": {
+        "curtidas": [
+            {
+                "usuario": "G",
+                "musicas": {
+                    "musica": "HIGHWAY TO HELL",
+                    "artista": "AC/DC",
+                    "duracao": "3:28"
+                }
+            }
+        ],
+        "nao_curtidas": [
+            {
+                "usuario": "G",
+                "musicas": {
+                    "musica": "HIGHWAY TO HELL",
+                    "artista": "AC/DC",
+                    "duracao": "3:28"
+                }
+            }
+        ]
+    }
+}

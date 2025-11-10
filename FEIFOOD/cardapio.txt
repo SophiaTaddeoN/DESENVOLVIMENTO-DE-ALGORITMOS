@@ -1,0 +1,49 @@
+mcdonalds,lanche,x-burguer,10,pao carne queijo
+mcdonalds,lanche,cheeseburger,12,pao carne queijo molho
+mcdonalds,lanche,big mac,20,pao carne dupla queijo alface molho especial
+mcdonalds,lanche,mcchicken,15,pao frango empanado maionese alface
+mcdonalds,lanche,quarteirao,18,pao carne queijo cheddar cebola
+mcdonalds,bebida,refrigerante,6,agua acucar gas
+mcdonalds,bebida,suco de laranja,8,laranja agua acucar
+mcdonalds,bebida,milkshake,12,leite sorvete calda
+mcdonalds,doce,mcflurry,10,sorvete calda confeitos
+mcdonalds,doce,sundae,8,sorvete calda castanha
+mcdonalds,doce,torta de maca,9,maca massa acucar
+
+starbucks,bebida,cafe,7,cafe agua acucar
+starbucks,bebida,latte,10,leite vaporizado cafe espresso
+starbucks,bebida,frappuccino,15,sorvete cafe chantilly
+starbucks,bebida,cha gelado,9,cha preto limao acucar
+starbucks,lanche,sanduiche natural,14,pao integral frango alface tomate
+starbucks,lanche,bagel,11,pao bagel cream cheese
+starbucks,doce,donut,6,farinha acucar ovos oleo
+starbucks,doce,brownie,12,chocolate ovos manteiga farinha
+starbucks,doce,cookie,8,farinha manteiga chocolate
+
+habibs,prato principal,esfiha de carne,7,carne massa temperos
+habibs,prato principal,kibe,8,trigo carne temperos
+habibs,prato principal,arabe completo,25,arroz kibe esfiha salada
+habibs,lanche,beirute,18,pao sirio carne queijo alface tomate
+habibs,lanche,mini kibe,12,kibe molho de alho
+habibs,doce,pastel de belem,5,massa folhada creme
+habibs,doce,baklava,9,massa mel nozes
+habibs,bebida,suco de laranja,7,laranja agua acucar
+habibs,bebida,refrigerante,6,agua acucar gas
+
+subway,lanche,sub de frango,18,pao frango queijo salada
+subway,lanche,sub de atum,19,pao atum maionese alface
+subway,lanche,sub veggie,17,pao legumes molho
+subway,lanche,sub italiano,20,pao presunto salame queijo molho
+subway,bebida,refrigerante,6,agua acucar gas
+subway,bebida,suco de uva,8,uva agua acucar
+subway,doce,cookie,5,farinha manteiga chocolate
+subway,doce,brownie,8,chocolate ovos manteiga farinha
+
+outback,prato principal,costela barbecue,45,carne suina molho barbecue
+outback,prato principal,chicken on the barbie,38,frango grelhado legumes molho
+outback,lanche,the outback burger,34,pao carne bacon queijo cebola frita
+outback,lanche,junior ribs,32,mini costela molho barbecue
+outback,doce,thunder from down under,25,brownie sorvete chantilly calda
+outback,doce,cheesecake,22,queijo calda de frutas vermelhas
+outback,bebida,chopp,12,cerveja gelada
+outback,bebida,limonada,10,limao agua acucar

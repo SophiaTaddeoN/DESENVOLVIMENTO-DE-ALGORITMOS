@@ -13,6 +13,8 @@ O projeto foi criado com o objetivo de praticar lógica de programação e conce
 - Interação via terminal
 
 ## 📚 O que aprendi
-- Lógica de programação aplicada em C
-- Estruturas condicionais e de repetição
-- Organização do código em funções
+- Aplicar conceitos fundamentais de lógica de programação em C
+- Utilizar estruturas condicionais e de repetição
+- Organizar o código em funções para melhorar legibilidade
+- Desenvolver aplicações em linguagem C via terminal
+
